@@ -3,12 +3,12 @@
 An informal blog I am creating to track my journey becoming more hands on again having been in largely management and leadership heavy roles the past 15 years.  However, the tide is changing and it's time to make sure I have my trunks on when it goes back out.
 
 
-Sept 10-11, 2025 - Pluralsight - Typescript 5 Fundamentals
+## Sept 10-11, 2025 - Pluralsight - Typescript 5 Fundamentals
 
 This was a pretty great course.  The examples were a bit simplistic, but the instructor really goes through Typescript language conventions and capabilities concisely. Thus far I'd been using Javascript, but after watching this video I can see how much TS brings the capabilities of OO languages like Java to the Javascript/Node universe.  Types, Classes, Interfaces, Abstract classes, Generics, you name it.  This stuff is bread and butter of what I cut my teeth on as a programmer and it will be nice to leverage it.  The other thing I then did was convert my book api entirely to typescript and get it to run.  In terms of the actual code conversion, I heavily relied on ChatGPT but had to troubleshoot it a lot with prompts.  I was able to get the book api to run again, including tests.  I also kept the old js files around but renamed them to _old.js.  
 
 
-Sept 9, 2025 - Pluralsight - Asynchronous Programming in JavaScript
+## Sept 9, 2025 - Pluralsight - Asynchronous Programming in JavaScript
 
 Great course.  I have already worked with callbacks, promises and async/await but this course looked really good so I focused on more advanced topics I haven't really delived into yet.  Promise queuing was very cool, using Promise.all to wait for multiple simultaenous asynchronous calls to be settled before continuing, and Promise.allSettled which means that the code will wait until all are completed even if some completed in error.  This is an alternative to a catch block.  There is also Promise.any which just waits until the first promise returns or all are rejected. This would make sense if you have to call multiple external services as different alternatives and are just waiting for the first result to return.  There is also Promise.race() that just returns the first settled promise.
 
@@ -16,12 +16,12 @@ The create promises section clearly laid out how there are three states for prom
 
 I then learned how to do concurrent processing using async/await.  Pretty cool.  Since promises return a value, you await the value getting set instead of the call to the promise itself.  This way you can write your own logic around which asynchronous calls need to be returned before you continue processing.  Neat.  It also shows how to do parallel requests using a combination of the Promise and async/await syntax.  Noting this all here so I can refer back to it as needed.
 
-Sept 8, 2025 - Pluralsight - Javascript Networking
+## Sept 8, 2025 - Pluralsight - Javascript Networking
 
 I did the basic lessons on this course around using fetch and axios.  I just built a simple reverse proxy for the agify.io web service which is free to use.  I mucked around with creating .env files for changing the port the app is running on so I could use the sample app they built in the course.
 
 
-Sept 8, 2025 - O'Reilly - API Design Patterns and Designing APIs with Swagger and Open API
+## Sept 8, 2025 - O'Reilly - API Design Patterns and Designing APIs with Swagger and Open API
 
 I didn't reaad these books cover to cover but scanned through them. I'll quickly go over where each was useful:
 
