@@ -1,4 +1,4 @@
-# learning-journal
+# learning-journal - Fall, 2025
 
 An informal blog I am creating to track my journey becoming more hands on again having been in largely management and leadership heavy roles the past 15 years.  However, the tide is changing and it's time to make sure I have my trunks on when it goes back out.
 
