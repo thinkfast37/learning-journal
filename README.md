@@ -1,6 +1,6 @@
 # learning-journal - Fall, 2025
 
-After two kids and a huge focus on management and leadership the past 15 years, I am diving back into hands on tech.
+An informal blog I am creating to track my journey becoming more hands on again having been in largely management and leadership heavy roles the past 15 years.  However, the tide is changing and it's time to make sure I have my trunks on when it goes back out.
 
 ## Sept 15, 2025 O'Reilly - Redis Essentials: Improving Your Database Performance
 
@@ -9,8 +9,6 @@ This is an O'Reilly course.  I've used redis a lot but never hands on, so this w
 He then goes into lists, and how you can create them initially with lpush and then look elements with lrange, add stuff to the end of the list with rpush, and trim the list with ltrim.  The use case he talked about for this was latest news posts.  He then went into hashes, use of hset/hget, hkeys, hvals and hincrby.  This was another example used for stock counts.
 
 A key point he also covers is that redis is single threaded.  This is important for transactions using multi and exec.  He also mentions there is no actual rollback.  He also talks through concurrency control via watch.  This was an interesting concept.  Basically if you watch a key, and it is modified outside of your scope, then your watch is considered dirty and your transaction will fail.  It only works on transactions.  If you watch and then try to update a key it will not stop you, because there is no transaction.
-
-We also covered streams.  Did some basic commands with xadd and xrange.  Sounds very similar to Kafka with the running log with an offset pointer concept.  The course started going into consumer groups as well.  
 
 
 ## Sept 12-14 Udemy - React The Complete Guide, 2025, plus a few Pluralsight courses
