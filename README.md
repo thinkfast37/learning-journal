@@ -2,7 +2,9 @@
 
 After two kids, and a management focused career I am spending time to refresh my hands on tech knowledge, as it's proving to be an asset in the market today.  
 
-## Sept 16, 2025 Pluralsight - Python
+## Sept 16-18, 2025 Pluralsight - Python Fundamentals and Leetcode problems
+
+I did the python fundamentals course from plural site. It was great for getting to know essentials of the language. I also did some coding challenges on Leetcode.  To be honest, I don't know how useful those will be, but I thought it was a nice little test. I ended up doing the actual challenge in Python each time. I feel like that's probably the easiest syntax so far and what I've seen. It might be cool to also do it in JavaScript for fun or type script. But you have to know the test tax a bit more. It's certainly not automatic for me yet. I'll have to build something for that to happ
 
 ## Sept 15, 2025 O'Reilly - Redis Essentials: Improving Your Database Performance
 
