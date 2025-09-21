@@ -2,6 +2,12 @@
 
 After two kids, and a management focused career I am spending time to refresh my hands on tech knowledge, as it's proving to be an asset in the market today.  
 
+## Sept 19, 2025 Pluralsight - Introduction to SQL
+
+[Course Link](https://app.pluralsight.com/library/courses/sql-introduction/)
+
+I just needed a quick tune up here on SQL syntax as I'd forgotten how to do group by + having and needed to remind myself about the distinctions between inner joins and outer joins.  I also watched the subqueries section too.  I do like subqueries, but I often use the WITH clauses as it creates an overall upfront subselect (this wasn't covered in the course). I am going to dive a bit more into Mongo next.  It looks it will have to be a book though, but I really want to get my fingers dirty with the benefits of a NoSQL database for specific use cases.  Redis is a bit more straightforward because it's in memory and it's a cache... but often from a practicality perspective it can be better to stick with a relational database because it can do a lot of what NoSQL db's do as well.
+
 ## Sept 16-18, 2025 Pluralsight - Python Fundamentals and Leetcode problems
 
 I did the python fundamentals course from plural site. It was great for getting to know essentials of the language. I also did some coding challenges on Leetcode.  To be honest, I don't know how useful those will be, but I thought it was a nice little test. I ended up doing the actual challenge in Python each time. I feel like that's probably the easiest syntax so far and what I've seen. It might be cool to also do it in JavaScript for fun or type script. But you have to know the test tax a bit more. It's certainly not automatic for me yet. I'll have to build something for that to happ
