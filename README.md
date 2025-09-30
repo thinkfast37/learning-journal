@@ -2,6 +2,10 @@
 
 After two kids, and a management focused career I am spending time to refresh my hands on tech knowledge, as it's proving to be an asset in the market today.  
 
+## Sept 26 - Pluralsight - Docker and Kubernetes the Big Picture, Docker Getting Started
+
+I've been working with Docker for years and I know the concepts behind Kubernetes and service management/orchestration.  I took some hands on docker courses years ago but I wanted to refresh my knowledge.  I took one of the Node.js apps I built and I dockerized it.  I ran it locally on my Docker Desktop and then I pushed an image of it to Docker Hub and I ran it again as an image locally where I mapped the image to a new port.  It was pretty straightforward and ChatGPT was great at helping me troubleshoot the creation of the Dockerfile as I had to switch my npm comands from using nodeman to using node.  The Kubernetes fundamentals were also great - and the Docker courses also showed the incremental approaches to needing something like Kubernetes.  I composed a multi-container Docker app and then I used Docker Swarm which is a much lighter orchestrator.  Kubernetes seems more sophisticated than Swarm of course and it would unlock the ability to deploy your app Cloud agnostically.  It seems to abstract all the management configuration outside of the cloud platform - like autoscaling.  Pretty cool.  I looked at more Kubernetes courses but they were all very sysadmin heavy.  I will come back to this topic more in future if needed.  This could be a huge rabbit hole for a deep dive for most product related roles.
+
 ## Sept 23-25, 2025 - O'Reilly - Mongo DB 8.0 in Action, Third Edition
 
 [Book Link](https://learning.oreilly.com/library/view/mongodb-8-0-in/9781633436077/)
